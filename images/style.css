@@ -1,0 +1,26 @@
+
+body{
+    font-family: sans-serif;
+}
+.container
+{
+    
+    
+    max-width: 100%;
+    margin: 0 auto;
+    height: 100%;
+    
+    
+    
+    
+    background-image: 
+        url(https://images.pexels.com/photos/1603650/pexels-photo-1603650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940);
+            background-position: center, center; 
+            background-repeat: no-repeat, no-repeat; 
+            background-size: cover; 
+            height:3000px;
+    
+} 
+ *img{
+    width: 100px;
+}
